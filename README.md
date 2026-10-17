@@ -1,6 +1,6 @@
-# Bumpa — Jumia QA Assessment
+# Jumia Automation
 
-Playwright E2E test project for the Bumpa recruitment QA assessment (Jumia Nigeria checkout flow).
+Playwright E2E test project for the Jumia Nigeria checkout flow.
 
 ## Quick start
 
@@ -36,7 +36,7 @@ After `npm run test:evidence`:
 
 ## Submission
 
-Primary deliverable: `docs/Bumpa_Jumia_QA_Assessment.docx`
+
 
 Local submission checklist: `docs/SUBMISSION_README.txt` (gitignored)
 
